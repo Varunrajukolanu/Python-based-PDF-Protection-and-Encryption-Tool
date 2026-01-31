@@ -12,6 +12,7 @@ Install Dependencies: pip install PyPDF2
 Execute the Script:
 
 python PDF_Protection.py <input_file.pdf> <output_file.pdf> 
+***Note: Make sure the script and input_file are in the same location***
 
 Verified Test Results
 The tool’s robustness was verified through "rigorous testing":
